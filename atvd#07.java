@@ -5,6 +5,6 @@ public class Multiplicacao {
         
         int multiplicacao = num1 * num2;
 
-        System.out.println("O resultado da multiplicação de " + numero1 + " e " + numero2 + " é: " + multiplicacao);
+        System.out.println("O resultado da multiplicação de " + num1 + " e " + num2 + " é: " + multiplicacao);
     }
 }
