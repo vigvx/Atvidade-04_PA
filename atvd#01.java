@@ -1,11 +1,11 @@
 public class ParOuImpar {
     public static void main(String[] args) {
-        int numero = 10;
+        int num = 10;
 
-        if (numero % 2 == 0) {
-            System.out.println(numero + " é um número par.");
+        if (num % 2 == 0) {
+            System.out.println(num + " é um número par.");
         } else {
-            System.out.println(numero + " é um número ímpar.");
+            System.out.println(num + " é um número ímpar.");
         }
     }
 }
