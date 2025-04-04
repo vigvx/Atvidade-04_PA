@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int numeroInteiro = 5;
-        double numeroDecimal = 2.5;
+        int numInt = 5;
+        double numDec = 2.5;
         
-        double soma = numeroInteiro + numeroDecimal;
+        double soma = numInt + numDec;
         
         System.out.println("A soma é: " + soma);
     }
