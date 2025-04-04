@@ -1,6 +1,6 @@
 public class IdadeEntre18e65 {
     public static void main(String[] args) {
-        int idade = 25; // Você pode alterar este valor para testar outras idades
+        int idade = 25;
 
         if (idade >= 18 && idade <= 65) {
             System.out.println("A pessoa tem idade entre 18 e 65 anos.");
