@@ -1,9 +1,9 @@
 public class NumeroPositivo {
     public static void main(String[] args) {
-        int numero = 7;
+        int num = 7;
 
-        if (numero > 0) {
-            System.out.println(numero + " é um número positivo.");
+        if (num > 0) {
+            System.out.println(num + " é um número positivo.");
         }
     }
 }
