@@ -1,10 +1,10 @@
 public class SomaNumeros {
     public static void main(String[] args) {
-        int numero1 = 10;
-        int numero2 = 20;
+        int num1 = 10;
+        int nume2 = 20;
         
-        int soma = numero1 + numero2;
+        int soma = num1 + num2;
 
-        System.out.println("A soma de " + numero1 + " e " + numero2 + " é: " + soma);
+        System.out.println("A soma de " + num1 + " e " + num2 + " é: " + soma);
     }
 }
